@@ -1,0 +1,13 @@
+{
+  "name": "agent-diag-shield",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Zero-Token Deterministic Error Diagnostic Engine & Prompt-Injection Firewall for AI Agents",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
